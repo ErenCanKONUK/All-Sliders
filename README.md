@@ -26,19 +26,22 @@
 ![image](https://github.com/ErenCanKONUK/Slider-Varieties-Cesitleri-Example/assets/97176491/697f349c-3bf7-466c-953a-61197c170460)
 - Slider 11
 ![image](https://github.com/ErenCanKONUK/Slider-Varieties-Cesitleri-Example/assets/97176491/010e7a7d-3792-42e7-8143-f17551dd41b9)
+
 ![image](https://github.com/ErenCanKONUK/Slider-Varieties-Cesitleri-Example/assets/97176491/84dfeba9-2364-4858-a625-35dc197a2469)
-- Slider 12
+
 ![image](https://github.com/ErenCanKONUK/Slider-Varieties-Cesitleri-Example/assets/97176491/d975c397-aae1-415c-9e4d-6c275c7350a1)
+
 ![image](https://github.com/ErenCanKONUK/Slider-Varieties-Cesitleri-Example/assets/97176491/383d615d-6935-49ba-a53d-0f4e29ce08c4)
+
 - Slider 13
+
 ![image](https://github.com/ErenCanKONUK/Slider-Varieties-Cesitleri-Example/assets/97176491/a92f4512-745c-441d-b670-58218f2d34fd)
 
 - Slider 14
+
 ![image](https://github.com/ErenCanKONUK/Slider-Varieties-Cesitleri-Example/assets/97176491/a709ac15-cd89-405b-bfad-24d8b4a86a4b)
 
 ![image](https://github.com/ErenCanKONUK/Slider-Varieties-Cesitleri-Example/assets/97176491/8a0aea40-e03d-46e0-8c18-02c0a135866b)
 
 ![image](https://github.com/ErenCanKONUK/Slider-Varieties-Cesitleri-Example/assets/97176491/03e71e7e-7a34-474f-9961-3c23e44d0032)
-- Slider 15
 
-- Slider 16
