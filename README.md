@@ -1,6 +1,8 @@
 # All-Sliders
 
 - Tüm Slider Çeşitleri ve Çalışmaları
+- 
+![image](https://github.com/ErenCanKONUK/All-Sliders/assets/97176491/dd44e266-ab68-43ed-9602-7940d2c8482a)
 
 - Slider 1
 ![image](https://github.com/ErenCanKONUK/Slider-Varieties-Cesitleri-Example/assets/97176491/5f53ced3-2ab7-4e52-96a3-5c1418bbd22b)
